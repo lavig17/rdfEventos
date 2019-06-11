@@ -1,10 +1,11 @@
-[
-      {
+{
         "name": "Agriculture, Engineering",
-        "children": [
+        "children":
+  [
           {
             "name": "Indonesia",
-            "children": [
+            "children":
+        [
               {
                 "name": "Yogyakarta, Indonesia",
                 "children": [
@@ -12,16 +13,15 @@
                     "name": "2019 2nd International Conference on Bioinformatics, Biotechnology, and Biomedical Engineering",
                     "children": [
                       {
-                        "name": "Topic: Agriculture, Biotechnology, Data Mining, Medical Physics and Biomedical Engineering, Medicine",
-                        "name": "When: 09/12/2019",
-                        "name": "DeadLine: Jun 17, 19"
-                          }
+                        "Topic": "Agriculture, Biotechnology, Data Mining, Medical Physics and Biomedical Engineering, Medicine",
+                        "When": "09/12/2019",
+                        "DeadLine": "Jun 17, 19"
+                      },
                         ]
                       }
                     ]
-                  }
-                ]
-              },
+                  },
+
               {
                 "name": "Banda Aceh, Indonesia",
                 "children": [
@@ -29,10 +29,10 @@
                     "name": "The 9th Annual International Conference on Health and Life Sciences 2019",
                     "children": [
                       {
-                        "name": "Topic:  Agriculture, Biotechnology, eHealth, Food technology",
-                        "name": "When: 09/18/2019",
-                        "name": "DeadLine: Jun 29, 19"
-                      }
+                        "Topic": " Agriculture, Biotechnology, eHealth, Food technology",
+                        "When": " 09/18/2019",
+                        "DeadLine": "Jun 29, 19"
+                      },
                     ]
                   }
                 ]
@@ -44,10 +44,10 @@
                     "name": "The 3rd International Conference on Natural Products and Bioresource Sciences 2019",
                     "children": [
                       {
-                        "name": "Topic: Agriculture, Chemical, Polymer & Petroleum Engineering, Food technology",
-                        "name": "When: 10/23/2019",
-                        "name": "DeadLine: Jul 1, 19"
-                      }
+                        "Topic": "Agriculture, Chemical, Polymer & Petroleum Engineering, Food technology",
+                        "When": "10/23/2019",
+                        "DeadLine": " Jul 1, 19"
+                      },
                     ]
                   }
                 ]
@@ -59,11 +59,10 @@
                     "name": "International Conference and the 10th Congress of Entomological Society of Indonesia",
                     "children": [
                       {
-                        "name": "Topic: Agriculture, Science and technology policy",
-                        "name": "When: 10/06/2019",
-                        "name": "DeadLine: Jul 1, 19"
-
-                      }
+                        "Topic": "Agriculture, Science and technology policy",
+                        "When": "10/06/2019",
+                        "DeadLine": "Jul 1, 19"
+                      },
                     ]
                   }
                 ]
@@ -75,10 +74,10 @@
                     "name": "The 4th International Symposium on Green Technology for Value Chains 2019",
                     "children": [
                       {
-                        "name": "Topcic: Agriculture, Biotechnology, Chemical, Polymer & Petroleum Engineering, Energy, Food technology",
-                        "name": "When: Oct 23, 19",
-                        "name": "DeadLine: Aug 1, 19"
-                      }
+                        "Topcic": "Agriculture, Biotechnology, Chemical, Polymer & Petroleum Engineering, Energy, Food technology",
+                        "When":" Oct 23, 19",
+                        "DeadLine": "Aug 1, 19"
+                      },
                     ]
                   }
                 ]
@@ -90,20 +89,20 @@
                     "name": "International Conference on Climate Smart Sustainable Agriculture (ICESAT 2019)",
                     "children": [
                       {
-                        "name": "Topic: Agriculture",
-                        "name": "When: Nov 20, 19",
-                        "name": "DeadLine: Sep 28, 19"
-
-                      }
+                        "Topic":" Agriculture",
+                        "When": "Nov 20, 19",
+                        "DeadLine":" Sep 28, 19"
+                      },
                     ]
                   }
                 ]
               }
-            ]
+      ]
 
           {
             "name": "Malaysia",
-            "children": [
+            "children":
+          [
               {
                 "name": "Putrajaya, Malaysia",
                 "children": [
@@ -111,22 +110,25 @@
                     "name": "International Symposium on Advanced Materials and Nanotechnology 2018",
                     "children": [
                       {
-                        "name": "Topic: Agriculture, Engineering",
-                        "name": "When: 08/15/2018",
-                        "name": "DeadLine: Jun 14, 19"
-
-                      }
+                        "Topic": "Agriculture, Engineering",
+                        "When":" 08/15/2018",
+                        "DeadLine":" Jun 14, 19"
+                      },
                     ]
-                  },
+                  }
+                ]
+              }
+              {
+                "name": "Putrajaya, Malaysia",
+                "children": [
                   {
                     "name": "NanoMITe Annual Symposium & Nanotechnology Malaysia Annual Symposium 2019 (NANOSYM 2019)",
                     "children": [
                       {
-                        "name": "Topic: Agriculture, eHealth, Electron devices, Energy, Food technology",
-                        "name": "When: 08/21/2019",
-                        "name": "DeadLine: Jun 21, 19"
-
-                      }
+                        "Topic":" Agriculture, eHealth, Electron devices, Energy, Food technology",
+                        "When":" 08/21/2019",
+                        "DeadLine":" Jun 21, 19"
+                      },
                     ]
                   }
                 ]
@@ -138,16 +140,16 @@
                     "name": "International Symposium on Advanced Materials and Nanotechnolgy 2019",
                     "children": [
                       {
-                        "name": "When: Agriculture, Applied Physics, Energy, Engineering",
-                        "name": "Topic: 08/19/2019",
-                        "name": "DeadLine: Jun 15, 19"
-
-                      }
+                        "When":" Agriculture, Applied Physics, Energy, Engineering",
+                        "Topic":" 08/19/2019",
+                        "DeadLine":" Jun 15, 19"
+                      },
                     ]
                   }
                 ]
-              }
+              },
             ]
           }
       },
-]
+  ]
+}
