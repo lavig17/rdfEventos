@@ -1,9 +1,9 @@
 {
-        "name": "Agriculture, Engineering",
+        "Area": "Agriculture, Engineering",
         "children":
   [
           {
-            "name": "Indonesia",
+            "Country": "Indonesia",
             "children":[
               {
                 "Where": "Yogyakarta, Indonesia",
@@ -21,7 +21,7 @@
               },
 
               {
-                "name": "Banda Aceh, Indonesia",
+                "Where": "Banda Aceh, Indonesia",
                 "children": [
                   {
                     "name": "The 9th Annual International Conference on Health and Life Sciences 2019",
@@ -36,7 +36,7 @@
                 ]
               },
               {
-                "name": "BSD Serpong, Tangerang, West Java, Indonesia",
+                "Where": "BSD Serpong, Tangerang, West Java, Indonesia",
                 "children": [
                   {
                     "name": "The 3rd International Conference on Natural Products and Bioresource Sciences 2019",
@@ -51,7 +51,7 @@
                 ]
               },
               {
-                "name": "BALI, Indonesia",
+                "Where": "BALI, Indonesia",
                 "children": [
                   {
                     "name": "International Conference and the 10th Congress of Entomological Society of Indonesia",
@@ -66,7 +66,7 @@
                 ]
               },
               {
-                "name": "BSD CIty, Tangerang, Jakarta*, Indonesia",
+                "Where": "BSD CIty, Tangerang, Jakarta*, Indonesia",
                 "children": [
                   {
                     "name": "The 4th International Symposium on Green Technology for Value Chains 2019",
@@ -81,7 +81,7 @@
                 ]
               },
               {
-                "name": "Majalengka*, Indonesia",
+                "Where": "Majalengka*, Indonesia",
                 "children": [
                   {
                     "name": "International Conference on Climate Smart Sustainable Agriculture (ICESAT 2019)",
@@ -98,11 +98,11 @@
       ]
     },
       {
-            "name": "Malaysia",
+            "Country": "Malaysia",
             "children":
           [
               {
-                "name": "Putrajaya, Malaysia",
+                "Where": "Putrajaya, Malaysia",
                 "children": [
                   {
                     "name": "International Symposium on Advanced Materials and Nanotechnology 2018",
@@ -117,7 +117,7 @@
                 ]
               },
               {
-                "name": "Putrajaya, Malaysia",
+                "Where": "Putrajaya, Malaysia",
                 "children": [
                   {
                     "name": "NanoMITe Annual Symposium & Nanotechnology Malaysia Annual Symposium 2019 (NANOSYM 2019)",
@@ -132,14 +132,14 @@
                 ]
               },
               {
-                "name": "Putrajaya*, Malaysia",
+                "Where": "Putrajaya*, Malaysia",
                 "children": [
                   {
                     "name": "International Symposium on Advanced Materials and Nanotechnolgy 2019",
                     "children": [
                       {
-                        "When":" Agriculture, Applied Physics, Energy, Engineering",
-                        "Topic":" 08/19/2019",
+                        "Topic":" Agriculture, Applied Physics, Energy, Engineering",
+                        "When":" 08/19/2019",
                         "DeadLine":" Jun 15, 19"
                       }
                     ]
